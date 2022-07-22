@@ -1,6 +1,6 @@
 # Spring Boot Web Application #
 
-## Data layer requirments ##
+## Data layer requirements ##
 
 The system has the following requirements:
 
@@ -19,7 +19,7 @@ The system has the following requirements:
 - The system must be able to report all of the members of a particular organization.
 - The system must be able to report all of the organizations a particular superhero/villain belongs to.
 
-## User interface requirments ##
+## User interface requirements ##
 
 The system has the following requirements:
 
