@@ -30,3 +30,7 @@ The system has the following requirements:
 - It must have a screen(s) to create, view, edit, and delete superhero/supervillain sighting (superhero/supervillain, location, and time) in the system.
 - It must have a home page that displays general information about the application, navigation to all the other pages, and a newsfeed of the latest 10 sightings in the database.
 
+## Running the application ##
+1) Run the Springboot application in a Java IDE
+2) Run the SQL script in MySQL
+3) Access the web application using "http://localhost:8099/" in a web browser (e.g. chrome, morzilla)
