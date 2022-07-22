@@ -5,10 +5,11 @@
 The system has the following requirements:
 
 It must keep track of all superhero/supervillain information.
-Heroes have names, descriptions, and a superpower.
-Heroes are affiliated with one or more superhero/supervillain organizations.
-It must keep track of all location information:
-Locations have names, descriptions, address information, and latitude/longitude coordinates.
+
+- Heroes have names, descriptions, and a superpower.
+-- Heroes are affiliated with one or more superhero/supervillain organizations.
+-- It must keep track of all location information:
+-- Locations have names, descriptions, address information, and latitude/longitude coordinates.
 It must keep track of all superhero/supervillain organization information:
 Organizations have names, descriptions, and address/contact information.
 Organizations have members.
