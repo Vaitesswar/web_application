@@ -18,3 +18,15 @@ The system has the following requirements:
 - The system must be able to report all sightings (hero and location) for a particular date.
 - The system must be able to report all of the members of a particular organization.
 - The system must be able to report all of the organizations a particular superhero/villain belongs to.
+
+## User interface requirments ##
+
+The system has the following requirements:
+
+- It must have a screen(s) to create, view, edit, and delete superheroes/supervillains in the system.
+- It must have a screen(s) to create, view, edit, and delete superpowers in the system.
+- It must have a screen(s) to create, view, edit, and delete locations in the system.
+- It must have a screen(s) to create, view, edit, and delete superhero/supervillain organizations in the system.
+- It must have a screen(s) to create, view, edit, and delete superhero/supervillain sighting (superhero/supervillain, location, and time) in the system.
+- It must have a home page that displays general information about the application, navigation to all the other pages, and a newsfeed of the latest 10 sightings in the database.
+
